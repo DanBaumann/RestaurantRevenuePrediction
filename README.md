@@ -12,6 +12,7 @@ ________________________________________________________________________________
 <h3 align='center'>Project Objectives</h3>
 <br>
 The aim of this project is to create a model which can accurately predict the revenue of restaurant sites. This would allow TFI to invest with more confidence in given areas. <br> The dataset includes the following variables:
+
 * The opening date of the restaurant
 * The city it is located in
 * The type of city (big or other)
