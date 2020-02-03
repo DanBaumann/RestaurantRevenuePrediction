@@ -55,4 +55,4 @@ After extensive exploratory data analysis of each variable, with corresponding v
 The best model was the Ridge regression model, which had a root mean squared error of 1755666 units of currency when compared with the real values in the testing set. XGBoost also performed relatively well coming in at a score of 1768459.
 Interestingly, when plotting the comparisons of training versus testing set, I saw that there were a few outliers that my models all failed to predict. For this reason, I trained another XGBoost model which excluded these anomalies, but arrived at a higher error for the test set. Often, getting rid of anomalies may mean that the model which is being fit is overtrained to the training set, and thus cannot effectively predict any new data. 
 
-![alt text](github.com/DanBaumann/RestaurantRevenuePrediction/tree/master/pics/ridge_train_predictions.png)
+![alt text](https://github.com/DanBaumann/RestaurantRevenuePrediction/tree/master/pics/ridge_train_predictions.png)
