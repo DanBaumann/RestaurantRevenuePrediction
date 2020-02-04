@@ -61,4 +61,11 @@ ________________________________________________________________________________
 <h3 align='center'>Files Included</h3>
 
 * Jupyter Notebook
- * 
+  * This is the final notebook where the project is completed
+  * Includes reading in the data, data analysis, data visualisation and results of models
+* .py files
+  * Data cleaning, data preprocessing, data visualisations and models functions 
+* csv_files
+* prediction_csvs
+* img directory
+  * Includes the results of Kaggle submission
